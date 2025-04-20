@@ -1,5 +1,5 @@
 ---
-name: Need the ability to create a product in the catalog
+name: User Story
 about: Developing the back-end product catalog for an e-commerce website
 title: ''
 labels: ''
